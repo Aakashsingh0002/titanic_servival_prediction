@@ -1,1 +1,1 @@
-# titanic_servival_prediction
+# titanic_survival_prediction
